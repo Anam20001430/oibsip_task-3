@@ -1,0 +1,46 @@
+
+body{
+    background-image: url("mountain.jpeg");
+  background-color: #cccccc;
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+label{
+    font-size:18px;
+}
+h1{
+    color: #641E16;
+}
+.container{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    
+  
+}
+.lbl{
+    color: #DAF7A6;
+    font-weight: bold;
+}
+
+input{
+    border-color: cyan;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: green;
+}
+
+
+.button{
+background-color: black;
+color: wheat;
+height: auto;
+width: 200px;
+border: none;
+padding: 10px;
+border-radius: 10px;
+}
